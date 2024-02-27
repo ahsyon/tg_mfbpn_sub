@@ -65,5 +65,5 @@ proxies:
 - {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, type: trojan, password: 1b74a958-224e-3654-9b68-c32d2b0b9b90, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: 1b74a958-224e-3654-9b68-c32d2b0b9b90, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 1b74a958-224e-3654-9b68-c32d2b0b9b90, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: 6cb70155-b1bb-3526-8272-fd5467699108, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: 6cb70155-b1bb-3526-8272-fd5467699108, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: d6c9873c-bf34-3157-82b3-c7150f776640, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: d6c9873c-bf34-3157-82b3-c7150f776640, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
