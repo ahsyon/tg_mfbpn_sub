@@ -132,7 +132,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/haituncloud.xyz/HK.yaml
+    url: https://raw.kgithub.com/ahsyon/tg_mfbpn_sub/main/trials_providers/haituncloud.xyz/HK.yaml
     interval: 180
     path: trials_providers/haituncloud.xyz/HK.yaml
     health-check:
@@ -141,7 +141,7 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/haituncloud.xyz/TW.yaml
+    url: https://raw.kgithub.com/ahsyon/tg_mfbpn_sub/main/trials_providers/haituncloud.xyz/TW.yaml
     interval: 180
     path: trials_providers/haituncloud.xyz/TW.yaml
     health-check:
@@ -150,7 +150,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/haituncloud.xyz/SG.yaml
+    url: https://raw.kgithub.com/ahsyon/tg_mfbpn_sub/main/trials_providers/haituncloud.xyz/SG.yaml
     interval: 180
     path: trials_providers/haituncloud.xyz/SG.yaml
     health-check:
@@ -159,7 +159,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/haituncloud.xyz/JP.yaml
+    url: https://raw.kgithub.com/ahsyon/tg_mfbpn_sub/main/trials_providers/haituncloud.xyz/JP.yaml
     interval: 180
     path: trials_providers/haituncloud.xyz/JP.yaml
     health-check:
@@ -168,7 +168,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/haituncloud.xyz/US.yaml
+    url: https://raw.kgithub.com/ahsyon/tg_mfbpn_sub/main/trials_providers/haituncloud.xyz/US.yaml
     interval: 180
     path: trials_providers/haituncloud.xyz/US.yaml
     health-check:
@@ -228,6 +228,10 @@ rules:
 - DOMAIN,ghproxy.org,🛩️ ‍墙内
 - DOMAIN,ghproxy.cc,🛩️ ‍墙内
 - DOMAIN,mirror.ghproxy.com,🛩️ ‍墙内
+- DOMAIN,github.moeyy.xyz,🛩️ ‍墙内
+- DOMAIN,gh.idayer.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,gitmirror.com,🛩️ ‍墙内
+- DOMAIN,gh.con.sh,🛩️ ‍墙内
 - DOMAIN-SUFFIX,githubfast.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
