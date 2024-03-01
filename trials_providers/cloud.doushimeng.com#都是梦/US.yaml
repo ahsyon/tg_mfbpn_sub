@@ -2,3 +2,4 @@
 ---
 proxies:
 - {name: 🇺🇸美国01|V6 - 都是梦, server: us5.doushimeng.free.hr, port: 20060, type: ss, cipher: chacha20-ietf-poly1305, password: e5e484fc-1450-4a83-8f01-561a68dfe546, udp: true}
+- {name: 🇺🇸美国02|V6 - 都是梦, server: us5.doushimeng.free.hr, port: 20061, type: trojan, password: e5e484fc-1450-4a83-8f01-561a68dfe546, sni: us5.doushimeng.free.hr, skip-cert-verify: true, udp: true}
