@@ -3,4 +3,3 @@
 proxies:
 - {name: 🇸🇬 新加坡 / SG｜A - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: cc473588-2202-4e1b-9e63-f50d26560ec7, udp: true}
 - {name: 🇸🇬 新加坡 / SG｜B - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: cc473588-2202-4e1b-9e63-f50d26560ec7, udp: true}
-- {name: 🇸🇬 SG｜Overseas users - 小白云, server: sg.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: cc473588-2202-4e1b-9e63-f50d26560ec7, udp: true}
