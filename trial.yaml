@@ -115,7 +115,6 @@ proxy-groups:
   - 🇹🇼 🇨🇳 台湾02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
   - 🇹🇼 🇨🇳 台湾03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
   - 🇹🇼 Taiwan - 番茄云
-  - 🇹🇼 广港•台湾258•高速 - 飞翔吧
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
@@ -515,7 +514,6 @@ proxy-groups:
   - 🇹🇼 🇨🇳 台湾02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
   - 🇹🇼 🇨🇳 台湾03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
   - 🇹🇼 Taiwan - 番茄云
-  - 🇹🇼 广港•台湾258•高速 - 飞翔吧
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
@@ -611,7 +609,6 @@ proxy-groups:
   - 🇹🇼 🇨🇳 台湾02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
   - 🇹🇼 🇨🇳 台湾03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
   - 🇹🇼 Taiwan - 番茄云
-  - 🇹🇼 广港•台湾258•高速 - 飞翔吧
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
@@ -985,14 +982,14 @@ proxies:
 - {name: 🇸🇬 新加坡-解锁05 - PL, server: xjp05.bbx9527.xyz, port: 35983, type: ss, cipher: chacha20-ietf-poly1305, password: 848f4573-222e-40a8-b9df-5689cfc8be00, udp: true}
 - {name: 🇸🇬 新加坡-解锁06 - PL, server: xjp06.bbx9527.xyz, port: 35986, type: ss, cipher: chacha20-ietf-poly1305, password: 848f4573-222e-40a8-b9df-5689cfc8be00, udp: true}
 - {name: 🇸🇬 新加坡-解锁07 - PL, server: xjp07.bbx9527.xyz, port: 26045, type: ss, cipher: chacha20-ietf-poly1305, password: 848f4573-222e-40a8-b9df-5689cfc8be00, udp: true}
-- {name: 🇭🇰 香港|【免费领1TB流量】前往-注册|公益 - 大白, server: 223.113.130.104, port: 62095, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【dabai.in】<<前往官网|公益 - 大白, server: 223.113.130.58, port: 50080, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|【免费领1TB流量】前往-注册|公益 - 大白, server: 223.113.130.58, port: 2095, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【dabai.in】<<前往官网|公益 - 大白, server: 223.113.130.104, port: 58888, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
 - {name: 🇭🇰 香港|专线2G|GPT+流媒体|【db01.in】<<前往官网|公益 - 大白, server: 223.113.130.58, port: 52052, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 223.113.130.104, port: 52086, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 223.113.130.58, port: 52086, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 223.113.130.67, port: 28880, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白, server: 223.113.130.67, port: 52086, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: '🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白', server: 223.113.130.104, port: 28880, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 223.113.130.67, port: 52086, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 223.113.130.55, port: 52086, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 223.113.130.67, port: 58888, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|专线2G|GPT+流媒体|【邀请用户】|最高返还40%|公益 - 大白, server: 223.113.130.55, port: 50080, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
+- {name: '🇭🇰 香港|专线2G|GPT+流媒体|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白', server: 223.113.130.67, port: 62086, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
 - {name: '🇺🇸 美国[解锁GPT] 01 - 别再错过', server: biezaicuoguoxyz.qiliqili.store, port: 2052, type: vmess, uuid: 20fb7fae-1ef0-4663-a175-f5add2d0198e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: cuoguous.qiliqili.store}}, udp: true}
 - {name: '🇮🇳 印度[解锁GPT] 01 - 别再错过', server: biezaicuoguoxyz.qiliqili.store, port: 2052, type: vmess, uuid: 20fb7fae-1ef0-4663-a175-f5add2d0198e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: cuoguoin.qiliqili.store}}, udp: true}
 - {name: '🇮🇳 印度尼西亚[解锁GPT] 01 - 别再错过', server: biezaicuoguoxyz.qiliqili.store, port: 2052, type: vmess, uuid: 20fb7fae-1ef0-4663-a175-f5add2d0198e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: cuoguoid.qiliqili.store}}, udp: true}
@@ -1214,7 +1211,6 @@ proxies:
 - {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, type: trojan, password: e32594fe-3301-3094-8832-5a22cb60d04a, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: e32594fe-3301-3094-8832-5a22cb60d04a, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: e32594fe-3301-3094-8832-5a22cb60d04a, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gy.58n.net, port: 17629, type: trojan, password: e32594fe-3301-3094-8832-5a22cb60d04a, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: e32594fe-3301-3094-8832-5a22cb60d04a, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: e32594fe-3301-3094-8832-5a22cb60d04a, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: e32594fe-3301-3094-8832-5a22cb60d04a, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
