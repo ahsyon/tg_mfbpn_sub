@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 Taiwan - 番茄云, server: dlaa.fanqiecloud.top, port: 2095, type: vmess, uuid: dcea6d78-4fa3-4886-9e01-9f4b0500da3a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw3.fanqiecloud.top}}, udp: true}
+- {name: 🇹🇼 Taiwan - 番茄云, server: dlaa.fanqiecloud.top, port: 2095, type: vmess, uuid: 2820419a-d1c2-44e4-85e1-19b1dd0a1849, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw3.fanqiecloud.top}}, udp: true}
