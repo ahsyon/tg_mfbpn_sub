@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 Hongkong V6 - 番茄云, server: hk3.fanqiecloud.top, port: 22555, type: ss, cipher: chacha20-ietf-poly1305, password: d4d45b85-0687-4b50-a887-d9624ba1e131, udp: true}
-- {name: 🇭🇰 Hongkong 2 - 番茄云, server: dlcc.fanqiecloud.top, port: 2086, type: vmess, uuid: d4d45b85-0687-4b50-a887-d9624ba1e131, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk2e.fanqiecloud.top}}, udp: true}
-- {name: 🇭🇰 Hongkong 3 - 番茄云, server: dlcc.fanqiecloud.top, port: 2086, type: vmess, uuid: d4d45b85-0687-4b50-a887-d9624ba1e131, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk3e.fanqiecloud.top}}, udp: true}
-- {name: 🇭🇰 Hongkong 4 - 番茄云, server: dlaa.fanqiecloud.top, port: 2052, type: vmess, uuid: d4d45b85-0687-4b50-a887-d9624ba1e131, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hkk2.fanqiecloud.top}}, udp: true}
+- {name: 🇭🇰 Hongkong V6 - 番茄云, server: hk3.fanqiecloud.top, port: 22555, type: ss, cipher: chacha20-ietf-poly1305, password: 03dce997-f149-4036-bfe8-6618f287a2e4, udp: true}
+- {name: 🇭🇰 Hongkong 2 - 番茄云, server: dlcc.fanqiecloud.top, port: 2086, type: vmess, uuid: 03dce997-f149-4036-bfe8-6618f287a2e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk2e.fanqiecloud.top}}, udp: true}
+- {name: 🇭🇰 Hongkong 3 - 番茄云, server: dlcc.fanqiecloud.top, port: 2086, type: vmess, uuid: 03dce997-f149-4036-bfe8-6618f287a2e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk3e.fanqiecloud.top}}, udp: true}
+- {name: 🇭🇰 Hongkong 4 - 番茄云, server: dlaa.fanqiecloud.top, port: 2052, type: vmess, uuid: 03dce997-f149-4036-bfe8-6618f287a2e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hkk2.fanqiecloud.top}}, udp: true}
