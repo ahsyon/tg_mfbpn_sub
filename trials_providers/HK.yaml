@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: 96c0f3ae-965a-39a3-8f17-f9af5be373b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: 96c0f3ae-965a-39a3-8f17-f9af5be373b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: 5b237d6b-f99a-3207-979c-98dd58a3ae3b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: 5b237d6b-f99a-3207-979c-98dd58a3ae3b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港|【3.8活动7折进行中】前往网站订购|公益 - 大白, server: 64.110.65.177, port: 25857, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
 - {name: 🇭🇰 香港|【dabai.in】<<前往官网|专线2G|GPT+流媒体|公益 - 大白, server: 64.110.78.246, port: 21205, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
 - {name: 🇭🇰 香港|【db01.in】<<前往官网|专线2G|GPT+流媒体|公益 - 大白, server: 64.110.78.246, port: 45703, type: vmess, uuid: c963137b-c2db-310d-92f8-a3cbc2ee2a0e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
