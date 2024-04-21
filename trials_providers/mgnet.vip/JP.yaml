@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 65fbd7e7-167a-31aa-b53e-16426a48d839, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 5e83f42f-2443-3181-a1ad-34c068e8cfc8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
