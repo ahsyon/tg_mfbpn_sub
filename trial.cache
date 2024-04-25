@@ -15,12 +15,12 @@ buy  period=month_price&plan_id=5
 email  xehmlnz97@guerrillamail.biz
 name  麻雀加速器 Sparrow
 node_n  9
-sub_info  0B  0B  2024-05-18 17:39:21+08:00  (剩余 0B 22 days, 13:49:42.869196)
+sub_info  0B  0B  2024-05-18 17:39:21+08:00  (剩余 0B 22 days, 12:53:57.656383)
 sub_url  https://v.spwvpn.com/api/v1/client/subscribe?token=c777e2798bcbf632e427fbefe65c93ed
 time  2024-02-26 15:39:23.301417+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"cahszwy213@rootsh.com","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -29,7 +29,7 @@ email  smyvvhl762@gmail.com
 last_checkin  2024-04-26 03:45:29.693264+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.12G  2024-04-26 05:45:29+08:00  (剩余 10.12G 1:59:48.899023)
+sub_info  0B  10.12G  2024-04-26 05:45:29+08:00  (剩余 10.12G 0:59:54.032445)
 sub_url  https://dy2.dx035.top/link/WaBS4LNylj52tu3G?sub=3
 time  2024-04-26 03:45:32.806967+08:00
 type  sspanel
@@ -51,7 +51,7 @@ type  v2board
 banned_domains  uuf.me  smartnator.com  psnator.com  mydefipet.live  qabq.com  lista.cc  sharklasers.com  guerrillamail.org  guerrillamail.de  tmpeml.com  teml.net  tmpmail.net  moakt.cc  linshiyou.com  guerrillamail.net  snapmail.cc  mynanaimohomes.com  maxamba.com  guerrillamail.biz  tmail.ws  deomail.top  mail.wvwvw.tech  lplso.tmmad.com  dijingka.com  fc2023888.com  nm.pe  wj1.haihantnc.xyz  jkd.tmmad.com  btcstar.site  lyx13.xyz  965.tmmad.com  www.plce.nm.pe  wj32.haihantnc.xyz  jkb.tmmad.com  tmpnator.live  youxiang.dev  trx365.org  yzm.de
 name  Itdog云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(dlymfaacj955@wfes.site): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(evfzucdty372@nqmo.com): 邮箱后缀不处于白名单中
 
 [531131.xyz]
 email  uzewqag303@gmail.com
@@ -80,7 +80,7 @@ type  v2board
 [www.yongdong.xyz#永动机]
 name  永动机
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(uiuqgpdw251@guerrillamail.biz): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
 
 [cloud.colacloud.site#可乐云]
 buy  pass
@@ -92,7 +92,7 @@ sub_url  https://cloud2.colacloud.site/api/v1/client/subscribe?token=4906d563f97
 time  2024-04-17 22:47:36.984490+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='cloud.colacloud.site', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=4906d563f9730aba65ab53c02747e4f1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc62c562f50>: Failed to resolve 'cloud.colacloud.site' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cloud.colacloud.site', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=4906d563f9730aba65ab53c02747e4f1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f297c0ba8c0>: Failed to resolve 'cloud.colacloud.site' ([Errno -2] Name or service not known)"))
 
 [portal.passgfw.top#WindyCloud]
 buy  period=month_price&plan_id=15
@@ -109,7 +109,7 @@ type  v2board
 banned_domains  linshiyou.com  nespressopixie.com  sharklasers.com  muatoc.com  disbox.org  tmails.net  jkb.tmmad.com  psnator.com  grr.la  jkd.tmmad.com  www.nm.pe  tmail.ws  qabq.com  mynanaimohomes.com  guerrillamail.de  wj1.haihantnc.xyz  adxp.haihantnc.xyz  deomail.top  yzm.de  h11gggujjj.bond  youxiang.dev  bareed.ws  uuf.me  tmpnator.live  tmpmail.org  guerrillamail.net  xxxhi.cc  moakt.ws  moakt.cc  tmpmail.net  tmpeml.com  end.tw  lista.cc  moakt.co  spam4.me  maxamba.com  teml.net  guerrillamail.biz  snapmail.cc  disbox.net  tmpbox.net  guerrillamail.org  mydefipet.live  miteon.com  smartnator.com  nqmo.com  guerrillamail.com  guerrillamailblock.com  www.plce.nm.pe  rootsh.com  dijingka.com  lyx13.xyz  xdanae.com  mail.wvwvw.tech  bccto.cc  nm.pe  wj32.haihantnc.xyz  btcstar.site  trx365.org  lplso.tmmad.com  965.tmmad.com  fc2023888.com  wfes.site
 name  常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rzrmnaw97@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(xuzsrerqq868@gmail.com): 'NoneType' object is not subscriptable
 
 [pigvip.xyz]
 
@@ -118,11 +118,11 @@ type  v2board
 [dd.xny.gay]
 
 [csyun.xyz]
-email  irucjrobi728@gmail.com
+email  sukxcfxbk14@gmail.com
 name  橙速云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://mine.subcsyun.online/api/v1/client/subscribe?token=7f563c8c2ecb07632d1dee956670cb4a
-time  2024-04-26 03:46:06.487805+08:00
+sub_url  http://mine.subcsyun.online/api/v1/client/subscribe?token=20dcb1b8dbe89f446ffdf96b1c561b37
+time  2024-04-26 04:49:27.237986+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -156,7 +156,7 @@ email  bsiolaa174@gmail.com
 last_checkin  0
 name  Tannel中继网络服务
 node_n  33
-sub_info  10.59G  500G  2024-05-31 12:15:42+08:00  (剩余 489.4G 35 days, 8:28:05.183338)
+sub_info  10.59G  500G  2024-05-31 12:15:42+08:00  (剩余 489.4G 35 days, 7:30:17.657360)
 sub_url  https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
 time  2024-04-23 03:45:32.330321+08:00
 type  sspanel
@@ -170,7 +170,7 @@ email  nygbmxn394@wfes.site
 last_checkin  2024-04-26 00:45:15.888304+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-04-26 16:45:35+08:00  (剩余 888G 12:57:58.785912)
+sub_info  0B  888G  2024-04-26 16:45:35+08:00  (剩余 888G 12:00:15.513151)
 sub_url  https://www.qlgq.top/link/4dd4447552ef9b47?clash=1#墙了个墙
 time  2024-04-25 16:45:36.759443+08:00
 type  sspanel
@@ -183,7 +183,7 @@ email  iuqjrdwt146@maxamba.com
 last_checkin  2024-04-26 00:45:15.890235+08:00
 name  bee.sulepay.com
 node_n  3
-sub_info  144.8K  66.43G  2024-04-26 12:45:27+08:00  (剩余 66.43G 8:59:55.142060)
+sub_info  144.8K  66.43G  2024-04-26 12:45:27+08:00  (剩余 66.43G 8:00:06.637373)
 sub_url  https://43.154.249.237/link/WCpyRYZrVxKvRazj?clash=1
 time  2024-03-27 12:45:28.637482+08:00
 type  sspanel
@@ -193,7 +193,7 @@ email  mfdfwroy198@gmail.com
 last_checkin  2024-04-26 00:45:15.892541+08:00
 name  大白
 node_n  8
-sub_info  68.08M  1000G  2024-04-26 12:45:23+08:00  (剩余 1000G 8:59:53.424668)
+sub_info  68.08M  1000G  2024-04-26 12:45:23+08:00  (剩余 1000G 8:00:03.015862)
 sub_url  https://l.db-link01.top/link/SbpYr6zKJphx4G1H?sub=3
 time  2024-03-27 12:45:23.943365+08:00
 type  sspanel
@@ -202,14 +202,13 @@ type  sspanel
 banned_domains  tmail.ws  moakt.ws  tmpmail.org  lplso.tmmad.com  jkb.tmmad.com  tmpmail.net  tmails.net  disbox.net  youxiang.dev  moakt.co  bareed.ws  psnator.com
 email  vnxprtg288@qabq.com
 invite_code  W0SE  9999
-last_checkin  0
+last_checkin  2024-04-26 04:45:17.810669+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10G  2024-04-27 03:45:47+08:00  (剩余 10G 23:59:55.403368)
+sub_info  0B  10.14G  2024-04-27 03:45:47+08:00  (剩余 10.14G 23:00:13.252743)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/0Skgaw2HxqDeqa2H?sub=3
 time  2024-04-26 03:45:49.591055+08:00
 type  sspanel
-尝试签到失败  解析 json 失败: Extra data: line 1 column 5 (char 4) (400 Bad Request '400 Bad Request')
 
 [haituncloud.xyz]
 email  jitratthd237@gmail.com
@@ -230,18 +229,17 @@ email  bdwyzjmn580@gmail.com
 last_checkin  2024-04-26 00:45:15.961463+08:00
 name  MG Network
 node_n  11
-sub_info  0B  6.226G  2024-04-27 17:45:25+08:00  (剩余 6.226G 1 day, 13:57:52.478671)
+sub_info  0B  6.226G  2024-04-27 17:45:25+08:00  (剩余 6.226G 1 day, 12:58:02.905333)
 sub_url  https://www.mgnet.sbs/link/6XPHJ0VRJ5za6Nl5?sub=3
 time  2024-04-25 16:45:25.876161+08:00
 type  sspanel
 
 [cooc.cloud#小白云]
 buy  pass
-email  rmlfrki235@moakt.ws
+email  xxsswtbs672@xdanae.com
 name  小白云
 node_n  21
-sub_info  0B  5G  2024-04-26 03:47:46+08:00  (剩余 5G 0:02:09.925556)
-sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=92746f0155e2a951f8544dedc547db12
-time  2024-04-25 21:47:46.875271+08:00
+sub_info  0B  5G  2024-04-26 10:45:34+08:00  (剩余 5G 5:59:56.293139)
+sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=3fe4cbe643d296300c5cfb5b0ea6e5ae
+time  2024-04-26 04:45:35.103008+08:00
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
