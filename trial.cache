@@ -15,12 +15,12 @@ buy  period=month_price&plan_id=5
 email  xehmlnz97@guerrillamail.biz
 name  麻雀加速器 Sparrow
 node_n  9
-sub_info  0B  0B  2024-05-18 17:39:21+08:00  (剩余 0B 18 days, 11:53:43.537327)
+sub_info  0B  0B  2024-05-18 17:39:21+08:00  (剩余 0B 18 days, 10:53:56.975121)
 sub_url  https://v.spwvpn.com/api/v1/client/subscribe?token=c777e2798bcbf632e427fbefe65c93ed
 time  2024-02-26 15:39:23.301417+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"ffmnzmtmc747@rootsh.com","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"abjpsvo872@rootsh.com","success":"false"}'
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -29,7 +29,7 @@ email  qnwhscvcz491@gmail.com
 last_checkin  2024-04-30 05:45:33.942641+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.14G  2024-04-30 07:45:33+08:00  (剩余 10.14G 1:57:52.042260)
+sub_info  0B  10.14G  2024-04-30 07:45:33+08:00  (剩余 10.14G 1:00:13.808686)
 sub_url  https://dy2.dx035.top/link/oPl1Xnn90yGnvinL?sub=3
 time  2024-04-30 05:45:37.175704+08:00
 type  sspanel
@@ -51,7 +51,7 @@ type  v2board
 banned_domains  uuf.me  smartnator.com  psnator.com  mydefipet.live  qabq.com  lista.cc  sharklasers.com  guerrillamail.org  guerrillamail.de  tmpeml.com  teml.net  tmpmail.net  moakt.cc  linshiyou.com  guerrillamail.net  snapmail.cc  mynanaimohomes.com  maxamba.com  guerrillamail.biz  tmail.ws  deomail.top  mail.wvwvw.tech  lplso.tmmad.com  dijingka.com  fc2023888.com  nm.pe  wj1.haihantnc.xyz  jkd.tmmad.com  btcstar.site  lyx13.xyz  965.tmmad.com  www.plce.nm.pe  wj32.haihantnc.xyz  jkb.tmmad.com  tmpnator.live  youxiang.dev  trx365.org  yzm.de
 name  Itdog云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(nwzvugj536@disbox.net): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(oxfyifsvk941@ipiso.tmmad.com): 邮箱后缀不处于白名单中
 
 [531131.xyz]
 email  uzewqag303@gmail.com
@@ -80,7 +80,7 @@ type  v2board
 [www.yongdong.xyz#永动机]
 name  永动机
 type  v2board
-更新订阅链接/续费续签失败  注册失败(mrtnuvt14@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">\n <head>\n <title>The page is not found</title>\n <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n <style type="text/css">\n /*<![CDATA[*/\n body {\n background-color: #fff;\n color: #000;\n font-size: 0.9em;\n font-family: sans-serif,helvetica;\n margin: 0;\n padding: 0;\n }\n :link {\n color: #c00;\n }\n :visited {\n color: #c00;\n }\n a:hover {\n color: #f50;\n }\n h1 {\n text-align: center;\n margin: 0;\n padding: 0.6em 2em 0.4em;\n background-color: #294172;\n color: #fff;\n font-weight: normal;\n font-size: 1.75em;\n border-bottom: 2px solid #000;\n }\n h1 strong {\n font-weight: bold;\n font-size: 1.5em;\n }\n h2 {\n text-align: center;\n background-color: #3C6EB4;\n font-size: 1.1em;\n font-weight: bold;\n color: #fff;\n margin: 0;\n padding: 0.5em;\n border-bottom: 2px solid #294172;\n }\n h3 {\n text-align: center;\n background-color: #ff0000;\n padding: 0.5em;\n color: #fff;\n }\n hr {\n display: none;\n }\n .content {\n padding: 1em 5em;\n }\n .alert {\n border: 2px solid #000;\n }\n\n img {\n border: 2px solid #fff;\n padding: 2px;\n margin: 2px;\n }\n a:hover img {\n border: 2px solid #294172;\n }\n .logos {\n margin: 1em;\n text-align: center;\n }\n /*]]>*/\n </style>\n </head>\n\n <body>\n <h1><strong>nginx error!</strong></h1>\n\n <div class="content">\n\n <h3>The page you are looking for is not found.</h3>\n\n <div class="alert">\n <h2>Website Administrator</h2>\n <div class="content">\n <p>Something has triggered missing webpage on your\n website. This is the default 404 error page for\n <strong>nginx</strong> that is distributed with\n Fedora. It is located\n <tt>/usr/share/nginx/html/404.html</tt></p>\n\n <p>You should customize this error page for your own\n site or edit the <tt>error_page</tt> directive in\n the <strong>nginx</strong> configuration file\n <tt>/etc/nginx/nginx.conf</tt>.</p>\n\n </div>\n </div>\n\n <div class="logos">\n <a href="http://nginx.net/"><img\n src="/nginx-logo.png"\n alt="[ Powered by nginx ]"\n width="121" height="32" /></a>\n\n <a href="https://fedoraproject.org/"><img \n src="/poweredby.png"\n alt="[ Powered by Fedora ]" \n width="88" height="31" /></a>\n </div>\n </div>\n </body>\n</html>\n')
+更新订阅链接/续费续签失败  注册失败(seixseoh609@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">\n <head>\n <title>The page is not found</title>\n <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n <style type="text/css">\n /*<![CDATA[*/\n body {\n background-color: #fff;\n color: #000;\n font-size: 0.9em;\n font-family: sans-serif,helvetica;\n margin: 0;\n padding: 0;\n }\n :link {\n color: #c00;\n }\n :visited {\n color: #c00;\n }\n a:hover {\n color: #f50;\n }\n h1 {\n text-align: center;\n margin: 0;\n padding: 0.6em 2em 0.4em;\n background-color: #294172;\n color: #fff;\n font-weight: normal;\n font-size: 1.75em;\n border-bottom: 2px solid #000;\n }\n h1 strong {\n font-weight: bold;\n font-size: 1.5em;\n }\n h2 {\n text-align: center;\n background-color: #3C6EB4;\n font-size: 1.1em;\n font-weight: bold;\n color: #fff;\n margin: 0;\n padding: 0.5em;\n border-bottom: 2px solid #294172;\n }\n h3 {\n text-align: center;\n background-color: #ff0000;\n padding: 0.5em;\n color: #fff;\n }\n hr {\n display: none;\n }\n .content {\n padding: 1em 5em;\n }\n .alert {\n border: 2px solid #000;\n }\n\n img {\n border: 2px solid #fff;\n padding: 2px;\n margin: 2px;\n }\n a:hover img {\n border: 2px solid #294172;\n }\n .logos {\n margin: 1em;\n text-align: center;\n }\n /*]]>*/\n </style>\n </head>\n\n <body>\n <h1><strong>nginx error!</strong></h1>\n\n <div class="content">\n\n <h3>The page you are looking for is not found.</h3>\n\n <div class="alert">\n <h2>Website Administrator</h2>\n <div class="content">\n <p>Something has triggered missing webpage on your\n website. This is the default 404 error page for\n <strong>nginx</strong> that is distributed with\n Fedora. It is located\n <tt>/usr/share/nginx/html/404.html</tt></p>\n\n <p>You should customize this error page for your own\n site or edit the <tt>error_page</tt> directive in\n the <strong>nginx</strong> configuration file\n <tt>/etc/nginx/nginx.conf</tt>.</p>\n\n </div>\n </div>\n\n <div class="logos">\n <a href="http://nginx.net/"><img\n src="/nginx-logo.png"\n alt="[ Powered by nginx ]"\n width="121" height="32" /></a>\n\n <a href="https://fedoraproject.org/"><img \n src="/poweredby.png"\n alt="[ Powered by Fedora ]" \n width="88" height="31" /></a>\n </div>\n </div>\n </body>\n</html>\n')
 
 [cloud.colacloud.site#可乐云]
 buy  pass
@@ -92,7 +92,7 @@ sub_url  https://cloud2.colacloud.site/api/v1/client/subscribe?token=4906d563f97
 time  2024-04-17 22:47:36.984490+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='cloud.colacloud.site', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=4906d563f9730aba65ab53c02747e4f1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f9a48c3d2d0>: Failed to resolve 'cloud.colacloud.site' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cloud.colacloud.site', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=4906d563f9730aba65ab53c02747e4f1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f7118de6c80>: Failed to resolve 'cloud.colacloud.site' ([Errno -2] Name or service not known)"))
 
 [portal.passgfw.top#WindyCloud]
 buy  period=month_price&plan_id=15
@@ -109,7 +109,7 @@ type  v2board
 banned_domains  linshiyou.com  nespressopixie.com  sharklasers.com  muatoc.com  disbox.org  tmails.net  jkb.tmmad.com  psnator.com  grr.la  jkd.tmmad.com  www.nm.pe  tmail.ws  qabq.com  mynanaimohomes.com  guerrillamail.de  wj1.haihantnc.xyz  adxp.haihantnc.xyz  deomail.top  yzm.de  h11gggujjj.bond  youxiang.dev  bareed.ws  uuf.me  tmpnator.live  tmpmail.org  guerrillamail.net  xxxhi.cc  moakt.ws  moakt.cc  tmpmail.net  tmpeml.com  end.tw  lista.cc  moakt.co  spam4.me  maxamba.com  teml.net  guerrillamail.biz  snapmail.cc  disbox.net  tmpbox.net  guerrillamail.org  mydefipet.live  miteon.com  smartnator.com  nqmo.com  guerrillamail.com  guerrillamailblock.com  www.plce.nm.pe  rootsh.com  dijingka.com  lyx13.xyz  xdanae.com  mail.wvwvw.tech  bccto.cc  nm.pe  wj32.haihantnc.xyz  btcstar.site  trx365.org  lplso.tmmad.com  965.tmmad.com  fc2023888.com  wfes.site
 name  常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
 type  v2board
-更新订阅链接/续费续签失败  注册失败(yiwinvg82@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(uomyopex54@gmail.com): 'NoneType' object is not subscriptable
 
 [pigvip.xyz]
 
@@ -118,11 +118,11 @@ type  v2board
 [dd.xny.gay]
 
 [csyun.xyz]
-email  xpparnbug526@gmail.com
+email  dmaetyq334@gmail.com
 name  橙速云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://mine.subcsyun.online/api/v1/client/subscribe?token=6ad4c398038d4f375b86f14da00ae38e
-time  2024-04-30 05:49:39.973539+08:00
+sub_url  http://subscribe.subcsyun.online/api/v1/client/subscribe?token=b58a82aa25a967f6ba18cd36b676cf11
+time  2024-04-30 06:45:26.499365+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -156,7 +156,7 @@ email  bsiolaa174@gmail.com
 last_checkin  0
 name  Tannel中继网络服务
 node_n  31
-sub_info  25.34G  500G  2024-05-31 12:15:42+08:00  (剩余 474.7G 31 days, 6:30:06.055818)
+sub_info  25.34G  500G  2024-05-31 12:15:42+08:00  (剩余 474.7G 31 days, 5:30:16.271891)
 sub_url  https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
 time  2024-04-23 03:45:32.330321+08:00
 type  sspanel
@@ -170,7 +170,7 @@ email  zqiuyfyl660@xxxhi.cc
 last_checkin  2024-04-30 00:45:33.425551+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-04-30 17:45:47+08:00  (剩余 888G 12:00:11.649908)
+sub_info  0B  888G  2024-04-30 17:45:47+08:00  (剩余 888G 11:00:23.643304)
 sub_url  https://www.qlgq.top/link/997a05a4047ce991?clash=1#墙了个墙
 time  2024-04-29 17:45:47.969220+08:00
 type  sspanel
@@ -183,19 +183,19 @@ email  iuqjrdwt146@maxamba.com
 last_checkin  2024-04-26 00:45:15.890235+08:00
 name  bee.sulepay.com
 node_n  3
-sub_info  0B  0B  2024-04-26 12:45:27+08:00  (剩余 0B -4 days, 6:58:48.429286)
+sub_info  0B  0B  2024-04-26 12:45:27+08:00  (剩余 0B -4 days, 6:00:04.392355)
 sub_url  https://43.154.249.237/link/WCpyRYZrVxKvRazj?clash=1
 time  2024-03-27 12:45:28.637482+08:00
 type  sspanel
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  获取邮箱验证码超时(yifhgcdu622@www.nm.pe)
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"xmbioqw867@rootsh.com","success":"false"}'
 
 [aa.dabai.in]
 email  qfpychae77@gmail.com
 last_checkin  2024-04-30 00:45:33.427672+08:00
 name  大白
 node_n  9
-sub_info  270.2K  1T  2024-05-26 12:45:23+08:00  (剩余 1T 26 days, 6:59:47.841211)
+sub_info  270.2K  1T  2024-05-26 12:45:23+08:00  (剩余 1T 26 days, 6:00:02.311975)
 sub_url  https://l.db-link01.top/link/txsPcRIRRRMqvh5E?sub=3
 time  2024-04-26 12:45:24.110100+08:00
 type  sspanel
@@ -207,7 +207,7 @@ invite_code  4BEL  10000
 last_checkin  2024-04-30 04:01:56.606793+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10.17G  2024-05-01 04:01:55+08:00  (剩余 10.17G 22:16:14.699594)
+sub_info  0B  10.17G  2024-05-01 04:01:55+08:00  (剩余 10.17G 21:16:34.637298)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/lziPeOcTAdfPF5L0?sub=3
 time  2024-04-30 04:01:58.004115+08:00
 type  sspanel
@@ -231,7 +231,7 @@ email  paadabw505@gmail.com
 last_checkin  2024-04-30 00:45:33.431220+08:00
 name  MG Network
 node_n  11
-sub_info  0B  6.01G  2024-05-01 19:45:16+08:00  (剩余 6.01G 1 day, 13:59:42.333769)
+sub_info  0B  6.01G  2024-05-01 19:45:16+08:00  (剩余 6.01G 1 day, 12:59:54.069120)
 sub_url  https://www.mgnet.sbs/link/WYLqe5NqXrWJqZzs?sub=3
 time  2024-04-29 18:45:17.207090+08:00
 type  sspanel
@@ -242,7 +242,7 @@ buy  pass
 email  veupsalo219@lista.cc
 name  小白云
 node_n  23
-sub_info  0B  5G  2024-04-30 07:45:49+08:00  (剩余 5G 2:00:13.536031)
+sub_info  0B  5G  2024-04-30 07:45:49+08:00  (剩余 5G 0:58:21.656284)
 sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=11cd1d96d9f43484786054c5cb91e0a6
 time  2024-04-30 01:45:50.210310+08:00
 type  v2board
