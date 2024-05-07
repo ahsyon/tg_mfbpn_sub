@@ -15,12 +15,12 @@ buy  period=month_price&plan_id=5
 email  xehmlnz97@guerrillamail.biz
 name  麻雀加速器 Sparrow
 node_n  9
-sub_info  0B  0B  2024-05-18 17:39:21+08:00  (剩余 0B 10 days, 23:53:51.987739)
+sub_info  0B  0B  2024-05-18 17:39:21+08:00  (剩余 0B 10 days, 22:53:43.225384)
 sub_url  https://v.spwvpn.com/api/v1/client/subscribe?token=c777e2798bcbf632e427fbefe65c93ed
 time  2024-02-26 15:39:23.301417+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"wrevbeqyy409@rootsh.com","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"mhsyfyk986@rootsh.com","success":"false"}'
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -29,7 +29,7 @@ email  bxewrpk502@gmail.com
 last_checkin  2024-05-07 17:45:28.495211+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2024-05-07 19:45:28+08:00  (剩余 10.1G 1:59:52.343040)
+sub_info  0B  10.1G  2024-05-07 19:45:28+08:00  (剩余 10.1G 0:59:55.877200)
 sub_url  https://dy2.dx035.top/link/D292DDY3JvNWTuKf?sub=3
 time  2024-05-07 17:45:32.547482+08:00
 type  sspanel
@@ -43,7 +43,7 @@ sub_info  0B  20G  2024-03-07 17:45:36+08:00  (剩余 20G 9 days, 20:53:01.75586
 sub_url  https://www.1jichang.xyz/api/v1/client/subscribe?token=77d8b8ef16544a9a5e47190ea8ff6c09
 time  2024-02-26 17:45:37.747092+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='www.1jichang.xyz', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=77d8b8ef16544a9a5e47190ea8ff6c09 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f31a07377f0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+更新旧订阅失败  HTTPSConnectionPool(host='www.1jichang.xyz', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=77d8b8ef16544a9a5e47190ea8ff6c09 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f885031f760>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
 
 [jc.bbx9527.xyz]
 
@@ -80,7 +80,7 @@ type  v2board
 [www.yongdong.xyz#永动机]
 name  永动机
 type  v2board
-更新订阅链接/续费续签失败  注册失败(izyvunxtk156@gmail.com): HTTPSConnectionPool(host='www.yongdong.xyz', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(gvyslmm30@gmail.com): HTTPSConnectionPool(host='www.yongdong.xyz', port=443): Read timed out. (read timeout=30)
 
 [cloud.colacloud.site#可乐云]
 buy  pass
@@ -92,7 +92,7 @@ sub_url  https://cloud2.colacloud.site/api/v1/client/subscribe?token=4906d563f97
 time  2024-04-17 22:47:36.984490+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='cloud.colacloud.site', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=4906d563f9730aba65ab53c02747e4f1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f31a84daec0>: Failed to resolve 'cloud.colacloud.site' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cloud.colacloud.site', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=4906d563f9730aba65ab53c02747e4f1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8850392200>: Failed to resolve 'cloud.colacloud.site' ([Errno -2] Name or service not known)"))
 
 [portal.passgfw.top#WindyCloud]
 buy  period=month_price&plan_id=15
@@ -111,12 +111,12 @@ buy  pass
 email  mhektwu750@gmail.com
 name  常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
 node_n  19
-sub_info  0B  45G  2024-05-01 15:45:30+08:00  (剩余 45G -7 days, 21:57:57.948213)
+sub_info  0B  45G  2024-05-01 15:45:30+08:00  (剩余 45G -7 days, 20:59:45.780077)
 sub_url  https://api.bigme.online:25565/api/v1/client/subscribe?token=ebd62b8b76b6ed5da071b4419c635365
 time  2024-04-30 15:45:31.146028+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(vxfezobs485@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(bpushrxs127@gmail.com): 'NoneType' object is not subscriptable
 
 [pigvip.xyz]
 
@@ -125,11 +125,11 @@ type  v2board
 [dd.xny.gay]
 
 [csyun.xyz]
-email  mxfcyncnb629@gmail.com
+email  rvirxmh795@gmail.com
 name  橙速云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://mine.subcsyun.online/api/v1/client/subscribe?token=723b398a8bcf65af98ec925ce358d0dd
-time  2024-05-07 17:45:30.534555+08:00
+sub_url  http://mine.subcsyun.online/api/v1/client/subscribe?token=0ff8f1061b525bb2efed20901236ea06
+time  2024-05-07 18:45:38.985228+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -163,7 +163,7 @@ email  bsiolaa174@gmail.com
 last_checkin  0
 name  Tannel中继网络服务
 node_n  30
-sub_info  830.9M  500G  2024-05-31 12:15:42+08:00  (剩余 499.2G 23 days, 18:30:13.522160)
+sub_info  830.9M  500G  2024-05-31 12:15:42+08:00  (剩余 499.2G 23 days, 17:30:07.748854)
 sub_url  https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
 time  2024-04-23 03:45:32.330321+08:00
 type  sspanel
@@ -177,7 +177,7 @@ email  xnowlbrvu266@tmpmail.org
 last_checkin  2024-05-07 17:45:34.206707+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-05-08 17:45:34+08:00  (剩余 888G 23:59:55.560373)
+sub_info  0B  888G  2024-05-08 17:45:34+08:00  (剩余 888G 22:59:58.622417)
 sub_url  https://www.qlgq.top/link/3ce647788ef1123d?clash=1#墙了个墙
 time  2024-05-07 17:45:35.080603+08:00
 type  sspanel
@@ -190,19 +190,19 @@ email  iuqjrdwt146@maxamba.com
 last_checkin  2024-04-26 00:45:15.890235+08:00
 name  bee.sulepay.com
 node_n  3
-sub_info  0B  0B  2024-04-26 12:45:27+08:00  (剩余 0B -12 days, 18:55:38.040097)
+sub_info  0B  0B  2024-04-26 12:45:27+08:00  (剩余 0B -12 days, 17:59:45.601374)
 sub_url  https://43.154.249.237/link/WCpyRYZrVxKvRazj?clash=1
 time  2024-03-27 12:45:28.637482+08:00
 type  sspanel
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"nobgykf977@rootsh.com","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"ufauhbsb465@rootsh.com","success":"false"}'
 
 [aa.dabai.in]
 email  qfpychae77@gmail.com
 last_checkin  2024-05-07 00:45:30.453450+08:00
 name  大白
 node_n  9
-sub_info  5.947M  1.001T  2024-05-26 12:45:23+08:00  (剩余 1.001T 18 days, 18:59:55.748665)
+sub_info  5.947M  1.001T  2024-05-26 12:45:23+08:00  (剩余 1.001T 18 days, 17:59:50.389715)
 sub_url  https://l.db-link01.top/link/txsPcRIRRRMqvh5E?sub=3
 time  2024-04-26 12:45:24.110100+08:00
 type  sspanel
@@ -214,7 +214,7 @@ invite_code  liLn  10000
 last_checkin  2024-05-07 04:45:51.198002+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10.19G  2024-05-08 04:45:49+08:00  (剩余 10.19G 11:00:16.833372)
+sub_info  0B  10.19G  2024-05-08 04:45:49+08:00  (剩余 10.19G 10:00:10.599508)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/OuwvloFoVzGstXYJ?sub=3
 time  2024-05-07 04:45:52.513858+08:00
 type  sspanel
@@ -238,7 +238,7 @@ email  evfggznmp833@gmail.com
 last_checkin  2024-05-07 00:45:30.456417+08:00
 name  MG Network
 node_n  11
-sub_info  0B  6.995G  2024-05-07 22:45:33+08:00  (剩余 6.995G 5:00:07.286526)
+sub_info  0B  6.995G  2024-05-07 22:45:33+08:00  (剩余 6.995G 4:00:00.558732)
 sub_url  https://www.mgnet.sbs/link/o0Nsze9mCF8bXoIH?sub=3
 time  2024-05-05 21:45:34.673721+08:00
 type  sspanel
@@ -249,7 +249,7 @@ buy  pass
 email  ylbpqum466@smartnator.com
 name  小白云
 node_n  23
-sub_info  0B  5G  2024-05-07 21:47:48+08:00  (剩余 5G 4:02:20.912467)
+sub_info  0B  5G  2024-05-07 21:47:48+08:00  (剩余 5G 2:58:44.374438)
 sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=86cc55a34ea884421f4645294ad80d81
 time  2024-05-07 15:47:49.403387+08:00
 type  v2board
