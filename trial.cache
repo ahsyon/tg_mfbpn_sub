@@ -15,12 +15,12 @@ buy  period=month_price&plan_id=5
 email  xehmlnz97@guerrillamail.biz
 name  麻雀加速器 Sparrow
 node_n  9
-sub_info  0B  0B  2024-05-18 17:39:21+08:00  (剩余 0B 9 days, 0:51:51.404958)
+sub_info  0B  0B  2024-05-18 17:39:21+08:00  (剩余 0B 8 days, 23:53:57.312719)
 sub_url  https://v.spwvpn.com/api/v1/client/subscribe?token=c777e2798bcbf632e427fbefe65c93ed
 time  2024-02-26 15:39:23.301417+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"jxemdmw818@rootsh.com","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"kubpkoov397@rootsh.com","success":"false"}'
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -45,7 +45,7 @@ sub_info  0B  20G  2024-03-07 17:45:36+08:00  (剩余 20G 9 days, 20:53:01.75586
 sub_url  https://www.1jichang.xyz/api/v1/client/subscribe?token=77d8b8ef16544a9a5e47190ea8ff6c09
 time  2024-02-26 17:45:37.747092+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='www.1jichang.xyz', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=77d8b8ef16544a9a5e47190ea8ff6c09 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff490a28d60>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+更新旧订阅失败  HTTPSConnectionPool(host='www.1jichang.xyz', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=77d8b8ef16544a9a5e47190ea8ff6c09 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f416024ca00>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
 
 [jc.bbx9527.xyz]
 
@@ -82,7 +82,7 @@ type  v2board
 [www.yongdong.xyz#永动机]
 name  永动机
 type  v2board
-更新订阅链接/续费续签失败  注册失败(vswucagf887@gmail.com): HTTPSConnectionPool(host='www.yongdong.xyz', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(odpcfzayp186@gmail.com): HTTPSConnectionPool(host='www.yongdong.xyz', port=443): Read timed out. (read timeout=30)
 
 [cloud.colacloud.site#可乐云]
 buy  pass
@@ -94,7 +94,7 @@ sub_url  https://cloud2.colacloud.site/api/v1/client/subscribe?token=4906d563f97
 time  2024-04-17 22:47:36.984490+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='cloud.colacloud.site', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=4906d563f9730aba65ab53c02747e4f1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff4a08d9de0>: Failed to resolve 'cloud.colacloud.site' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cloud.colacloud.site', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=4906d563f9730aba65ab53c02747e4f1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4160304130>: Failed to resolve 'cloud.colacloud.site' ([Errno -2] Name or service not known)"))
 
 [portal.passgfw.top#WindyCloud]
 buy  period=month_price&plan_id=15
@@ -113,12 +113,12 @@ buy  pass
 email  ucbrpppeo877@gmail.com
 name  常用工具全解锁 & 高速安全,企业服务 | BigME.Pro
 node_n  19
-sub_info  0B  45G  2024-05-09 09:45:48+08:00  (剩余 45G -1 day, 17:00:14.939589)
+sub_info  0B  45G  2024-05-09 09:45:48+08:00  (剩余 45G -1 day, 16:00:21.345630)
 sub_url  https://sub.bigme.online:7788/api/v1/client/subscribe?token=ec84edea59507b77048c82b701108824
 time  2024-05-09 03:45:49.473511+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(ewmwkub76@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(pebjgybv381@gmail.com): 'NoneType' object is not subscriptable
 
 [pigvip.xyz]
 
@@ -127,11 +127,11 @@ type  v2board
 [dd.xny.gay]
 
 [csyun.xyz]
-email  lbmaqoqui455@gmail.com
+email  aqvzifzdq913@gmail.com
 name  橙速云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://s4.subcsyun.online/api/v1/client/subscribe?token=d92237b3edfbcb3ee0c4f8a4c81063e3
-time  2024-05-09 16:47:35.732514+08:00
+sub_url  http://s1.subcsyun.online/api/v1/client/subscribe?token=327342543bf26b06f3635f506e5b82c3
+time  2024-05-09 17:45:25.036716+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -165,7 +165,7 @@ email  bsiolaa174@gmail.com
 last_checkin  0
 name  Tannel中继网络服务
 node_n  19
-sub_info  395.9M  400G  2024-09-05 00:49:11+08:00  (剩余 399.6G 118 days, 8:03:41.838495)
+sub_info  395.9M  400G  2024-09-05 00:49:11+08:00  (剩余 399.6G 118 days, 7:03:45.886185)
 sub_url  https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
 time  2024-04-23 03:45:32.330321+08:00
 type  sspanel
@@ -175,13 +175,13 @@ type  sspanel
 auto_invite  F
 banned_domains  mydefipet.live
 buy  pass
-email  rjtvmkjps274@mail.wvwvw.tech
-last_checkin  2024-05-09 00:45:16.203793+08:00
+email  mbaxvxp998@spam4.me
+last_checkin  2024-05-09 17:45:42.860460+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888.1G  2024-05-09 17:45:55+08:00  (剩余 888.1G 1:00:29.081243)
-sub_url  https://www.qlgq.top/link/9f7ad662563d0c79?clash=1#墙了个墙
-time  2024-05-08 17:45:56.124890+08:00
+sub_info  0B  888G  2024-05-10 17:45:42+08:00  (剩余 888G 23:59:51.301672)
+sub_url  https://www.qlgq.top/link/0c53956ebd2d2f4a?clash=1#墙了个墙
+time  2024-05-09 17:45:43.892174+08:00
 type  sspanel
 
 [bee.sulepay.com]
@@ -196,15 +196,15 @@ sub_info  0B  0B  2024-04-26 12:45:27+08:00  (剩余 0B -13 days, 19:59:59.98614
 sub_url  https://43.154.249.237/link/WCpyRYZrVxKvRazj?clash=1
 time  2024-03-27 12:45:28.637482+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff4a83814b0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/WCpyRYZrVxKvRazj?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff4a0c49cf0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4160b72860>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/WCpyRYZrVxKvRazj?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4160a5a3e0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [aa.dabai.in]
 email  qfpychae77@gmail.com
 last_checkin  2024-05-09 00:45:16.206127+08:00
 name  大白
 node_n  9
-sub_info  150.2M  1.001T  2024-05-26 12:45:23+08:00  (剩余 1.001T 16 days, 19:59:56.994929)
+sub_info  150.2M  1.001T  2024-05-26 12:45:23+08:00  (剩余 1.001T 16 days, 19:00:01.587640)
 sub_url  https://l.db-link01.top/link/txsPcRIRRRMqvh5E?sub=3
 time  2024-04-26 12:45:24.110100+08:00
 type  sspanel
@@ -216,7 +216,7 @@ invite_code  17lO  10000
 last_checkin  2024-05-09 04:45:59.942903+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10.12G  2024-05-10 04:45:58+08:00  (剩余 10.12G 12:00:30.429746)
+sub_info  0B  10.12G  2024-05-10 04:45:58+08:00  (剩余 10.12G 11:00:35.850846)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/11o1PFS65yJ19spO?sub=3
 time  2024-05-09 04:46:01.246106+08:00
 type  sspanel
@@ -240,7 +240,7 @@ email  zjvuoke966@gmail.com
 last_checkin  2024-05-09 00:45:16.209854+08:00
 name  MG Network
 node_n  11
-sub_info  0B  6.635G  2024-05-09 23:45:50+08:00  (剩余 6.635G 7:00:24.493327)
+sub_info  0B  6.635G  2024-05-09 23:45:50+08:00  (剩余 6.635G 6:00:31.137623)
 sub_url  https://www.mgnet.sbs/link/UHXPCeW0gcypXNHg?sub=3
 time  2024-05-07 22:45:50.897893+08:00
 type  sspanel
