@@ -56,6 +56,11 @@ proxy-groups:
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 🇭🇰 香港 / A｜HK - 小白云
   - 🇭🇰 香港 / B｜HK - 小白云
+  - 🇭🇰 香港A丨BGP丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港B丨HKBN丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港丨国际BGP - Tannel中继网络服务
   - 🇭🇰 白银vip｜中转2 -> 香港 | vvJH209 - 永动机
   - 🇭🇰 白银vip｜中转3 -> 香港 | vvJH240 - 永动机
   - 🇭🇰 白银vip｜中转2-> 香港 | vvJH210 - 永动机
@@ -106,6 +111,8 @@ proxy-groups:
   - 🇹🇼 台湾 / A｜TW - 小白云
   - 🇹🇼 台湾 / B｜TW - 小白云
   - 🇹🇼 TW｜海外用户 - 小白云
+  - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
+  - 🇹🇼 台湾B丨Hinet丨流媒体 - Tannel中继网络服务
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
@@ -128,6 +135,7 @@ proxy-groups:
   - 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮
   - 🇸🇬 新加坡 / A｜SG - 小白云
   - 🇸🇬 新加坡 / B｜SG - 小白云
+  - 🇸🇬 新加坡A丨禁下载丨流媒体 - Tannel中继网络服务
   - 🇸🇬 SG新加坡 A - 可乐云
   - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
   - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
@@ -166,6 +174,9 @@ proxy-groups:
   - 🇯🇵 日本 / A｜JP - 小白云
   - 🇯🇵 日本 / B｜JP - 小白云
   - 🇯🇵 JP｜海外用户 - 小白云
+  - 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务
+  - 🇯🇵 日本B丨BGP丨流媒体 - Tannel中继网络服务
+  - 🇯🇵 日本CMI丨移动优化 - Tannel中继网络服务
   - 🇯🇵 JP日本 A - 可乐云
   - 公益免费 🇯🇵日本 - Gegeth极迅游
   - 🇯🇵 白银vip｜中转2 -> 日本｜vvSoc216 - 永动机
@@ -225,6 +236,8 @@ proxy-groups:
   - 🇺🇸 美国 / A｜US - 小白云
   - 🇺🇸 美国 / B｜US - 小白云
   - 🇺🇸 US｜海外用户 - 小白云
+  - 🇺🇲 美国A丨圣何塞丨流媒体 - Tannel中继网络服务
+  - 🇺🇲 美国B丨圣何塞丨流媒体 - Tannel中继网络服务
   - 公益免费 🇺🇸美国 - Gegeth极迅游
   - 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc227 - 永动机
   - 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc228 - 永动机
@@ -312,6 +325,11 @@ proxy-groups:
   - 🇫🇷 法国 / FR｜BIZ - 小白云
   - 🇷🇺 俄罗斯 / RU｜BIZ - 小白云
   - 🇲🇾 马来西亚 / MY | BIZ - 小白云
+  - 🇨🇦 加拿大丨多伦多 - Tannel中继网络服务
+  - 🇮🇳 印度丨孟买 - Tannel中继网络服务
+  - 🇫🇮 芬兰丨流媒体 - Tannel中继网络服务
+  - 🇬🇧 英国丨伦敦丨流媒体 - Tannel中继网络服务
+  - 🇰🇷 韩国A丨Oracle丨流媒体 - Tannel中继网络服务
   - 🇰🇷 KR韩国 A - 可乐云
   - 🇰🇷 白银vip｜中转2 -> 韩国｜vvSoc237 - 永动机
   - 🇰🇷 白银vip｜中转2 -> 韩国｜vvSoc238 - 永动机
@@ -456,6 +474,11 @@ proxy-groups:
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 🇭🇰 香港 / A｜HK - 小白云
   - 🇭🇰 香港 / B｜HK - 小白云
+  - 🇭🇰 香港A丨BGP丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港B丨HKBN丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港丨国际BGP - Tannel中继网络服务
   - 🇭🇰 白银vip｜中转2 -> 香港 | vvJH209 - 永动机
   - 🇭🇰 白银vip｜中转3 -> 香港 | vvJH240 - 永动机
   - 🇭🇰 白银vip｜中转2-> 香港 | vvJH210 - 永动机
@@ -512,6 +535,8 @@ proxy-groups:
   - 🇹🇼 台湾 / A｜TW - 小白云
   - 🇹🇼 台湾 / B｜TW - 小白云
   - 🇹🇼 TW｜海外用户 - 小白云
+  - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
+  - 🇹🇼 台湾B丨Hinet丨流媒体 - Tannel中继网络服务
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
@@ -549,6 +574,11 @@ proxy-groups:
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 🇭🇰 香港 / A｜HK - 小白云
   - 🇭🇰 香港 / B｜HK - 小白云
+  - 🇭🇰 香港A丨BGP丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港B丨HKBN丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港丨国际BGP - Tannel中继网络服务
   - 🇭🇰 白银vip｜中转2 -> 香港 | vvJH209 - 永动机
   - 🇭🇰 白银vip｜中转3 -> 香港 | vvJH240 - 永动机
   - 🇭🇰 白银vip｜中转2-> 香港 | vvJH210 - 永动机
@@ -599,6 +629,8 @@ proxy-groups:
   - 🇹🇼 台湾 / A｜TW - 小白云
   - 🇹🇼 台湾 / B｜TW - 小白云
   - 🇹🇼 TW｜海外用户 - 小白云
+  - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
+  - 🇹🇼 台湾B丨Hinet丨流媒体 - Tannel中继网络服务
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
@@ -627,6 +659,7 @@ proxy-groups:
   - 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮
   - 🇸🇬 新加坡 / A｜SG - 小白云
   - 🇸🇬 新加坡 / B｜SG - 小白云
+  - 🇸🇬 新加坡A丨禁下载丨流媒体 - Tannel中继网络服务
   - 🇸🇬 SG新加坡 A - 可乐云
   - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
   - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
@@ -671,6 +704,9 @@ proxy-groups:
   - 🇯🇵 日本 / A｜JP - 小白云
   - 🇯🇵 日本 / B｜JP - 小白云
   - 🇯🇵 JP｜海外用户 - 小白云
+  - 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务
+  - 🇯🇵 日本B丨BGP丨流媒体 - Tannel中继网络服务
+  - 🇯🇵 日本CMI丨移动优化 - Tannel中继网络服务
   - 🇯🇵 JP日本 A - 可乐云
   - 公益免费 🇯🇵日本 - Gegeth极迅游
   - 🇯🇵 白银vip｜中转2 -> 日本｜vvSoc216 - 永动机
@@ -736,6 +772,8 @@ proxy-groups:
   - 🇺🇸 美国 / A｜US - 小白云
   - 🇺🇸 美国 / B｜US - 小白云
   - 🇺🇸 US｜海外用户 - 小白云
+  - 🇺🇲 美国A丨圣何塞丨流媒体 - Tannel中继网络服务
+  - 🇺🇲 美国B丨圣何塞丨流媒体 - Tannel中继网络服务
   - 公益免费 🇺🇸美国 - Gegeth极迅游
   - 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc227 - 永动机
   - 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc228 - 永动机
@@ -829,6 +867,11 @@ proxy-groups:
   - 🇫🇷 法国 / FR｜BIZ - 小白云
   - 🇷🇺 俄罗斯 / RU｜BIZ - 小白云
   - 🇲🇾 马来西亚 / MY | BIZ - 小白云
+  - 🇨🇦 加拿大丨多伦多 - Tannel中继网络服务
+  - 🇮🇳 印度丨孟买 - Tannel中继网络服务
+  - 🇫🇮 芬兰丨流媒体 - Tannel中继网络服务
+  - 🇬🇧 英国丨伦敦丨流媒体 - Tannel中继网络服务
+  - 🇰🇷 韩国A丨Oracle丨流媒体 - Tannel中继网络服务
   - 🇰🇷 KR韩国 A - 可乐云
   - 🇰🇷 白银vip｜中转2 -> 韩国｜vvSoc237 - 永动机
   - 🇰🇷 白银vip｜中转2 -> 韩国｜vvSoc238 - 永动机
@@ -970,15 +1013,15 @@ proxies:
 - {name: 🇳🇱 Netherlands - 番茄云, server: dlaa.fanqiecloud.top, port: 2086, type: vmess, uuid: 06c7e644-2ccd-4b1d-af81-a699f3242cc5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-nl7.fanqiecloud.top}}, udp: true}
 - {name: 🇮🇳 India - 番茄云, server: in.fanqiecloud.top, port: 22460, type: ss, cipher: chacha20-ietf-poly1305, password: 06c7e644-2ccd-4b1d-af81-a699f3242cc5, udp: true}
 - {name: 🇦🇪 Dubai - 番茄云, server: dlaa.fanqiecloud.top, port: 2086, type: vmess, uuid: 06c7e644-2ccd-4b1d-af81-a699f3242cc5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-db7.fanqiecloud.top}}, udp: true}
-- {name: 🇺🇸 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 104.21.179.170, port: 2083, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-317.db-link01.top, network: ws, ws-opts: {path: /dabai.in, headers: {Host: 100-100-17-317.db-link01.top}}, udp: true}
-- {name: 🇺🇸 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 104.17.6.210, port: 2053, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-232.cn-db.top, network: ws, ws-opts: {path: /dabai.in, headers: {Host: 100-100-17-232.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: 104.20.26.63, port: 2083, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-131.db-link01.top, network: ws, ws-opts: {path: /dabai.in, headers: {Host: 100-100-17-131.db-link01.top}}, udp: true}
-- {name: 🇺🇸 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: 172.67.26.113, port: 8443, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: '', network: grpc, grpc-opts: {grpc-service-name: dabai}, udp: true}
-- {name: 🇺🇸 美国|【公共订阅】动态速率油管最低720P保证|GPT+流媒体|共享 - 大白, server: 172.64.17.91, port: 2053, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: '', network: grpc, grpc-opts: {grpc-service-name: dabai}, udp: true}
-- {name: 🇺🇸 美国|【注册使用】速度更快|GPT+流媒体|共享 - 大白, server: 104.21.52.102, port: 2096, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: '', network: grpc, grpc-opts: {grpc-service-name: dabai}, udp: true}
-- {name: 🇺🇸 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: 104.16.157.136, port: 2053, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: '', network: grpc, grpc-opts: {grpc-service-name: dabai}, udp: true}
-- {name: '🇺🇸 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: 172.67.14.21, port: 2083, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: '', network: grpc, grpc-opts: {grpc-service-name: dabai}, udp: true}
-- {name: 🇺🇸 美国|最低35%-aff招募进行中|共享 - 大白, server: 104.21.181.223, port: 2087, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-130.db-link02.top, network: ws, ws-opts: {path: /dabai.in, headers: {Host: 100-100-17-130.db-link02.top}}, udp: true}
+- {name: 🇺🇸 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 104.25.31.202, port: 2087, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-442.db-link02.top, network: ws, ws-opts: {path: /dabai.in, headers: {Host: 100-100-17-442.db-link02.top}}, udp: true}
+- {name: 🇺🇸 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 172.67.38.102, port: 443, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-138.db-link01.top, network: ws, ws-opts: {path: /dabai.in, headers: {Host: 100-100-17-138.db-link01.top}}, udp: true}
+- {name: 🇺🇸 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: 172.67.17.129, port: 8443, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-232.db-link02.top, network: ws, ws-opts: {path: /dabai.in, headers: {Host: 100-100-17-232.db-link02.top}}, udp: true}
+- {name: 🇺🇸 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: 104.21.129.118, port: 8443, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: '', network: grpc, grpc-opts: {grpc-service-name: dabai}, udp: true}
+- {name: 🇺🇸 美国|【公共订阅】动态速率油管最低720P保证|GPT+流媒体|共享 - 大白, server: 172.64.51.138, port: 2087, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: '', network: grpc, grpc-opts: {grpc-service-name: dabai}, udp: true}
+- {name: 🇺🇸 美国|【注册使用】速度更快|GPT+流媒体|共享 - 大白, server: 104.17.13.208, port: 443, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: '', network: grpc, grpc-opts: {grpc-service-name: dabai}, udp: true}
+- {name: 🇺🇸 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: 172.67.28.241, port: 2087, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: '', network: grpc, grpc-opts: {grpc-service-name: dabai}, udp: true}
+- {name: '🇺🇸 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: 172.64.30.204, port: 2087, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: '', network: grpc, grpc-opts: {grpc-service-name: dabai}, udp: true}
+- {name: 🇺🇸 美国|最低35%-aff招募进行中|共享 - 大白, server: 104.19.108.206, port: 8443, type: vmess, uuid: adcb140d-a106-31d1-bd39-214af1bbcdcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-164.db-link02.top, network: ws, ws-opts: {path: /dabai.in, headers: {Host: 100-100-17-164.db-link02.top}}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 3b9f042a-08dd-3685-9bb1-988725c218e4, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 3b9f042a-08dd-3685-9bb1-988725c218e4, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 3b9f042a-08dd-3685-9bb1-988725c218e4, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
@@ -1034,21 +1077,21 @@ proxies:
 - {name: 🇯🇵 日本 | 03 | 大阪市 - 猪网-PIGVIP, server: rb03.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇳🇴 挪威 | 01 - 猪网-PIGVIP, server: nw01.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇨🇭 瑞士 | 01 | 抖音 - 猪网-PIGVIP, server: rs01.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
-- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: 78e6ba25-cf76-3827-9718-972ae838e84e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: 78e6ba25-cf76-3827-9718-972ae838e84e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: 78e6ba25-cf76-3827-9718-972ae838e84e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: 78e6ba25-cf76-3827-9718-972ae838e84e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: 78e6ba25-cf76-3827-9718-972ae838e84e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: 78e6ba25-cf76-3827-9718-972ae838e84e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19831, type: vmess, uuid: 78e6ba25-cf76-3827-9718-972ae838e84e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19832, type: vmess, uuid: 78e6ba25-cf76-3827-9718-972ae838e84e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19841, type: vmess, uuid: 78e6ba25-cf76-3827-9718-972ae838e84e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19842, type: vmess, uuid: 78e6ba25-cf76-3827-9718-972ae838e84e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: 78e6ba25-cf76-3827-9718-972ae838e84e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19892, type: vmess, uuid: 78e6ba25-cf76-3827-9718-972ae838e84e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19893, type: vmess, uuid: 78e6ba25-cf76-3827-9718-972ae838e84e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19894, type: vmess, uuid: 78e6ba25-cf76-3827-9718-972ae838e84e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 78e6ba25-cf76-3827-9718-972ae838e84e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: b55f8af8-a4f7-3b80-b8ad-8665d0034ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: b55f8af8-a4f7-3b80-b8ad-8665d0034ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: b55f8af8-a4f7-3b80-b8ad-8665d0034ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: b55f8af8-a4f7-3b80-b8ad-8665d0034ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: b55f8af8-a4f7-3b80-b8ad-8665d0034ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: b55f8af8-a4f7-3b80-b8ad-8665d0034ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19831, type: vmess, uuid: b55f8af8-a4f7-3b80-b8ad-8665d0034ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19832, type: vmess, uuid: b55f8af8-a4f7-3b80-b8ad-8665d0034ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19841, type: vmess, uuid: b55f8af8-a4f7-3b80-b8ad-8665d0034ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19842, type: vmess, uuid: b55f8af8-a4f7-3b80-b8ad-8665d0034ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: b55f8af8-a4f7-3b80-b8ad-8665d0034ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19892, type: vmess, uuid: b55f8af8-a4f7-3b80-b8ad-8665d0034ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19893, type: vmess, uuid: b55f8af8-a4f7-3b80-b8ad-8665d0034ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19894, type: vmess, uuid: b55f8af8-a4f7-3b80-b8ad-8665d0034ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: b55f8af8-a4f7-3b80-b8ad-8665d0034ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 / A｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 1f53ecfa-a442-422d-8251-15b82d4f96ae, udp: true}
 - {name: 🇺🇸 美国 / B｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 1f53ecfa-a442-422d-8251-15b82d4f96ae, udp: true}
 - {name: 🇺🇸 US｜海外用户 - 小白云, server: us.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: 1f53ecfa-a442-422d-8251-15b82d4f96ae, udp: true}
@@ -1072,6 +1115,24 @@ proxies:
 - {name: 🇲🇾 马来西亚 / MY | BIZ - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: 1f53ecfa-a442-422d-8251-15b82d4f96ae, udp: true}
 - {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 1f53ecfa-a442-422d-8251-15b82d4f96ae, udp: true}
 - {name: 🇯🇵 JP｜海外用户 - 小白云, server: jp.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 1f53ecfa-a442-422d-8251-15b82d4f96ae, udp: true}
+- {name: 🇺🇲 美国A丨圣何塞丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62032, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国B丨圣何塞丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62027, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大丨多伦多 - Tannel中继网络服务, server: gy.zztannel.com, port: 62038, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度丨孟买 - Tannel中继网络服务, server: gy.zztannel.com, port: 62002, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62012, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾B丨Hinet丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62005, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡A丨禁下载丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62033, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62001, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本B丨BGP丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62035, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本CMI丨移动优化 - Tannel中继网络服务, server: gy.zztannel.com, port: 62031, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇫🇮 芬兰丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62030, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国丨伦敦丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62037, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国A丨Oracle丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62023, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港A丨BGP丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62021, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62016, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务, server: zx.zztannel.com, port: 62003, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港B丨HKBN丨流媒体 - Tannel中继网络服务, server: zx.zztannel.com, port: 62010, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港丨国际BGP - Tannel中继网络服务, server: zx.zztannel.com, port: 62013, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 51310, type: ss, cipher: chacha20-ietf-poly1305, password: f3f791e0-63e6-4267-8616-8553828df113, udp: true}
 - {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 42752, type: ss, cipher: chacha20-ietf-poly1305, password: f3f791e0-63e6-4267-8616-8553828df113, udp: true}
 - {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: f3f791e0-63e6-4267-8616-8553828df113, udp: true}
