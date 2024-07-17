@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19821, type: vmess, uuid: d772c5a0-d029-30c8-87ac-9c6851290893, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19822, type: vmess, uuid: d772c5a0-d029-30c8-87ac-9c6851290893, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19821, type: vmess, uuid: 2fd01c98-8120-3c22-ac97-d77b9e610ba5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19822, type: vmess, uuid: 2fd01c98-8120-3c22-ac97-d77b9e610ba5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾A丨Wap丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62012, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾B丨Wap丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62005, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 44fa6d43-057f-331e-b032-8e07a2e5f3c0, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
