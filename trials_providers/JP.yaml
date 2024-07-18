@@ -2,8 +2,8 @@
 ---
 proxies:
 - {name: 🇯🇵 Japan-日本 - 一机场, server: frontend.yijianlian.app, port: 54530, type: trojan, password: c862d2ef-c5d4-4a1c-b217-0bb73f04f277, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19831, type: vmess, uuid: 8055b1e4-284a-3a7f-9bb3-214c0e6f90f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19832, type: vmess, uuid: 8055b1e4-284a-3a7f-9bb3-214c0e6f90f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19831, type: vmess, uuid: 242f31a3-7e6d-360c-9f45-2dfb2455c906, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19832, type: vmess, uuid: 242f31a3-7e6d-360c-9f45-2dfb2455c906, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62001, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本B丨BGP丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62035, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本CMI丨移动优化 - Tannel中继网络服务, server: gy.zztannel.com, port: 62031, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
