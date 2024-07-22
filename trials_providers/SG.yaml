@@ -2,8 +2,8 @@
 ---
 proxies:
 - {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: c862d2ef-c5d4-4a1c-b217-0bb73f04f277, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19841, type: vmess, uuid: 48388b61-c59a-3b5a-966d-acefdd39ee71, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19842, type: vmess, uuid: 48388b61-c59a-3b5a-966d-acefdd39ee71, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19841, type: vmess, uuid: 99940e80-7e30-3e29-a0d8-19405e1112c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19842, type: vmess, uuid: 99940e80-7e30-3e29-a0d8-19405e1112c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 514c7588-ff51-3b23-b15d-9eda2fcd45af, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
 - {name: '🇸🇬 [vip①]新加坡2|广东专用1G - MG Network', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: 514c7588-ff51-3b23-b15d-9eda2fcd45af, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
 - {name: 🇸🇬 新加坡A丨Wap丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62033, type: vmess, uuid: d3a515b4-6fcb-38c8-93d3-2c17da360f89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
